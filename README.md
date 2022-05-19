@@ -26,12 +26,12 @@ You can type `/quit` or `/q` to exit the client.
 
 ## TODO
 The project is simple and could work well as a private chat server among some friends but there are a few more changes I'd like to have for it to be more practical:
-- [  ] Resuming/Reconnecting
-- [  ] Ability to type server address (currently it assumes localhost)
-- [  ] Message history (without database, just store like last X messages in memory)
-- [  ] Useful Slash Commands
-- [  ] Some more code clean up and various little things.
-- [  ] Demonstrate creating bots. (You can already do this by leveraging the client connection code from `client.py` but I mean demonstrate it and find some practical uses for it)
+- [ ] Resuming/Reconnecting
+- [ ] Ability to type server address (currently it assumes localhost)
+- [ ] Message history (without database, just store like last X messages in memory)
+- [ ] Useful Slash Commands
+- [ ] Some more code clean up and various little things.
+- [ ] Demonstrate creating bots. (You can already do this by leveraging the client connection code from `client.py` but I mean demonstrate it and find some practical uses for it)
 
 Who knows maybe I could eventually turn this into a named project?
 
